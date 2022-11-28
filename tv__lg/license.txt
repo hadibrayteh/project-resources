@@ -1,0 +1,11 @@
+Model Information:
+* title:	TV  LG
+* source:	https://sketchfab.com/3d-models/tv-lg-78cb89683cc94d1eb858bbee8a0af6a8
+* author:	ARS 3D (https://sketchfab.com/m.arsyi.fathirahman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TV  LG" (https://sketchfab.com/3d-models/tv-lg-78cb89683cc94d1eb858bbee8a0af6a8) by ARS 3D (https://sketchfab.com/m.arsyi.fathirahman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	SONY Bravia X900C 4K TV
+* source:	https://sketchfab.com/3d-models/sony-bravia-x900c-4k-tv-c78af37dc5364be2a31d1a2c7cc1edc3
+* author:	3D Share (https://sketchfab.com/3dsharesg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SONY Bravia X900C 4K TV" (https://sketchfab.com/3d-models/sony-bravia-x900c-4k-tv-c78af37dc5364be2a31d1a2c7cc1edc3) by 3D Share (https://sketchfab.com/3dsharesg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

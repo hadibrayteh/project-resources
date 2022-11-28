@@ -1,0 +1,11 @@
+Model Information:
+* title:	samsung_tv
+* source:	https://sketchfab.com/3d-models/samsung-tv-9319f8e0c00b46cfb32f5a1327788536
+* author:	vldmr (https://sketchfab.com/vldmr)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "samsung_tv" (https://sketchfab.com/3d-models/samsung-tv-9319f8e0c00b46cfb32f5a1327788536) by vldmr (https://sketchfab.com/vldmr) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
