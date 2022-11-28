@@ -1,0 +1,11 @@
+Model Information:
+* title:	ps2 Console
+* source:	https://sketchfab.com/3d-models/ps2-console-b20d0f22228b49e1b06ac252d0a799f3
+* author:	Jeffrey fan 2000 (https://sketchfab.com/8723516)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ps2 Console" (https://sketchfab.com/3d-models/ps2-console-b20d0f22228b49e1b06ac252d0a799f3) by Jeffrey fan 2000 (https://sketchfab.com/8723516) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

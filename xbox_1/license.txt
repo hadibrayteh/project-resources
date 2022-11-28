@@ -1,0 +1,11 @@
+Model Information:
+* title:	Xbox 1
+* source:	https://sketchfab.com/3d-models/xbox-1-3b2adce5e1174b81b89633842424ecfe
+* author:	lazercar (https://sketchfab.com/lazercar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Xbox 1" (https://sketchfab.com/3d-models/xbox-1-3b2adce5e1174b81b89633842424ecfe) by lazercar (https://sketchfab.com/lazercar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
