@@ -1,0 +1,487 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2101,
+      "max": [
+        3.7680580615997314,
+        3.352047920227051,
+        4.956621170043945
+      ],
+      "min": [
+        -3.999140977859497,
+        -3.311836004257202,
+        -0.5712490081787109
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 25212,
+      "componentType": 5126,
+      "count": 2101,
+      "max": [
+        1.0,
+        1.0,
+        0.9999944567680359
+      ],
+      "min": [
+        -1.0,
+        -0.9998122453689575,
+        -0.9999998807907104
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2101,
+      "max": [
+        1.0,
+        1.0,
+        0.9999322891235352,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9997334480285645,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2101,
+      "max": [
+        0.9970679879188538,
+        0.902783989906311
+      ],
+      "min": [
+        0.005888999905437231,
+        0.03172999992966652
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 7524,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 50424,
+      "componentType": 5126,
+      "count": 4418,
+      "max": [
+        2.991956949234009,
+        1.5475729703903198,
+        -0.3428240120410919
+      ],
+      "min": [
+        -3.236004114151001,
+        -0.7500990033149719,
+        -0.397258996963501
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 103440,
+      "componentType": 5126,
+      "count": 4418,
+      "max": [
+        1.0,
+        0.9998725056648254,
+        0.9998725056648254
+      ],
+      "min": [
+        -1.0,
+        -0.9999920129776001,
+        -0.18953491747379303
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 33616,
+      "componentType": 5126,
+      "count": 4418,
+      "max": [
+        1.0,
+        0.9999103546142578,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999779462814331,
+        -0.9999988079071045,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 16808,
+      "componentType": 5126,
+      "count": 4418,
+      "max": [
+        0.9944729804992676,
+        0.981784999370575
+      ],
+      "min": [
+        0.01549800019711256,
+        0.019401999190449715
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 30096,
+      "componentType": 5125,
+      "count": 9912,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 156456,
+      "componentType": 5126,
+      "count": 121,
+      "max": [
+        3.456660032272339,
+        3.2460389137268066,
+        4.930677890777588
+      ],
+      "min": [
+        -3.6981120109558105,
+        -2.91729998588562,
+        -0.3996640145778656
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 157908,
+      "componentType": 5126,
+      "count": 121,
+      "max": [
+        1.0,
+        0.978705883026123,
+        0.999812126159668
+      ],
+      "min": [
+        -1.0,
+        -0.978705883026123,
+        -0.9787108898162842
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 52152,
+      "componentType": 5126,
+      "count": 121,
+      "max": [
+        0.9641249775886536,
+        0.9881830215454102
+      ],
+      "min": [
+        0.03854899853467941,
+        0.01181699987500906
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 69744,
+      "componentType": 5125,
+      "count": 228,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "German.avi (https://sketchfab.com/german.avi)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/notebook-microsoft-surface-laptop-3-d91f15250f194ccdbb9f5175377a15b8",
+      "title": "Notebook Microsoft Surface Laptop 3"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 70656,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 53120,
+      "byteOffset": 70656,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 159360,
+      "byteOffset": 123776,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 104304,
+      "byteOffset": 283136,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 387440,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/aiStandardSurface1SG_baseColor.png"
+    },
+    {
+      "uri": "textures/aiStandardSurface1SG_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/aiStandardSurface1SG_normal.png"
+    },
+    {
+      "uri": "textures/aiStandardSurface2SG_baseColor.png"
+    },
+    {
+      "uri": "textures/aiStandardSurface2SG_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/aiStandardSurface2SG_normal.png"
+    },
+    {
+      "uri": "textures/aiStandardSurface3SG_baseColor.png"
+    },
+    {
+      "uri": "textures/aiStandardSurface3SG_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/aiStandardSurface3SG_emissive.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "aiStandardSurface1SG",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.8042929063,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "aiStandardSurface2SG",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.4427126085,
+        0.4427126085,
+        0.4427126085
+      ],
+      "emissiveTexture": {
+        "index": 8
+      },
+      "name": "aiStandardSurface3SG",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 12
+          },
+          "indices": 13,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4
+      ],
+      "name": "TS3D_Abal.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    }
+  ]
+}

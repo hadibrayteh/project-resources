@@ -1,0 +1,11 @@
+Model Information:
+* title:	Notebook Microsoft Surface Laptop 3
+* source:	https://sketchfab.com/3d-models/notebook-microsoft-surface-laptop-3-d91f15250f194ccdbb9f5175377a15b8
+* author:	German.avi (https://sketchfab.com/german.avi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Notebook Microsoft Surface Laptop 3" (https://sketchfab.com/3d-models/notebook-microsoft-surface-laptop-3-d91f15250f194ccdbb9f5175377a15b8) by German.avi (https://sketchfab.com/german.avi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
