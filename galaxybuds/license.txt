@@ -1,0 +1,11 @@
+Model Information:
+* title:	Buds
+* source:	https://sketchfab.com/3d-models/buds-42ade15182ac4235a26b7fe4fe570a70
+* author:	forpinik (https://sketchfab.com/forpinik)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Buds" (https://sketchfab.com/3d-models/buds-42ade15182ac4235a26b7fe4fe570a70) by forpinik (https://sketchfab.com/forpinik) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
