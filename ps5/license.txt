@@ -1,0 +1,11 @@
+Model Information:
+* title:	Playstation 5 Digital Edition
+* source:	https://sketchfab.com/3d-models/playstation-5-digital-edition-ea891a5332934095a5c6407b3b14b296
+* author:	DatSketch (https://sketchfab.com/DatSketch)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Playstation 5 Digital Edition" (https://sketchfab.com/3d-models/playstation-5-digital-edition-ea891a5332934095a5c6407b3b14b296) by DatSketch (https://sketchfab.com/DatSketch) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
