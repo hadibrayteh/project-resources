@@ -1,0 +1,11 @@
+Model Information:
+* title:	PlayStation VR
+* source:	https://sketchfab.com/3d-models/playstation-vr-e19c7e9800e74faaa04f0cae6cd4a528
+* author:	stevencmutter (https://sketchfab.com/stevencmutter)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PlayStation VR" (https://sketchfab.com/3d-models/playstation-vr-e19c7e9800e74faaa04f0cae6cd4a528) by stevencmutter (https://sketchfab.com/stevencmutter) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
