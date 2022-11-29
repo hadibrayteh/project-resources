@@ -1,0 +1,11 @@
+Model Information:
+* title:	Galaxy Watch3 (45mm)
+* source:	https://sketchfab.com/3d-models/galaxy-watch3-45mm-41d3f32d116c4b4697e95c5a6c3797ad
+* author:	AR Quick Look USDZ (https://sketchfab.com/pewcus-tunbek-4Buvso)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Galaxy Watch3 (45mm)" (https://sketchfab.com/3d-models/galaxy-watch3-45mm-41d3f32d116c4b4697e95c5a6c3797ad) by AR Quick Look USDZ (https://sketchfab.com/pewcus-tunbek-4Buvso) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Samsung Gear S3 Classic
+* source:	https://sketchfab.com/3d-models/samsung-gear-s3-classic-0da480196d6e498f97eccd6425ed1e10
+* author:	cyberreno (https://sketchfab.com/cyberreno)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Samsung Gear S3 Classic" (https://sketchfab.com/3d-models/samsung-gear-s3-classic-0da480196d6e498f97eccd6425ed1e10) by cyberreno (https://sketchfab.com/cyberreno) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

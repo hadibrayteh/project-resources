@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apple Watch Series 6
+* source:	https://sketchfab.com/3d-models/apple-watch-series-6-2b4e21a9ff194c089cb77086415a389a
+* author:	Serega_SHTOPOR (https://sketchfab.com/Serega_SHTOPOR)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apple Watch Series 6" (https://sketchfab.com/3d-models/apple-watch-series-6-2b4e21a9ff194c089cb77086415a389a) by Serega_SHTOPOR (https://sketchfab.com/Serega_SHTOPOR) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
